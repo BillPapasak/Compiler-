@@ -1,2 +1,2 @@
 
-Compile written in Python.
+Compile from scratch written in Python.
